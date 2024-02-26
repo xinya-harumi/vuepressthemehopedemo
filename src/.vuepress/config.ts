@@ -5,7 +5,7 @@ export default defineUserConfig({
   base: "/vuepressthemehopedemo/",
 
   lang: "en-US",
-  title: "Docs Demo",
+  title: "Docs Demoooo",
   description: "A docs demo for vuepress-theme-hope",
 
   theme,
